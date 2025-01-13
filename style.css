@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F1F1F3;
+}
+main,  header{
+    
+    margin: 0 192px;
+    background-color: #F1F1F3;
+}
+
+    /* Fonts */
+    .fira-sans {
+        font-family: "Fira Sans", serif;
+        font-style: normal;
+      }
+
+        /* Colors */
+        .black-dark1{
+            color: #0E0E0E;
+        }
+        .greeen-dark1{
+            background-color: #006A50;
+        }
+        .green-dark2{
+            background-color: #09A15C;
+        }
+        .green-dark3{
+            background-color: #09A15C;
+        }
+        .green-dark4{
+            background-color: #C6E4D6;
+        }
+
+
+        /* Common items */
+        .green-btn{
+            font-size: 21px;
+            border-radius: 9px;
+            color: white;
+            background-color: #006A50;
+        
+        }
+
+        .section-title{
+            font-size: 48px;
+            font-weight: bold;
+            color: #0E0E0E;
+        }
+        .section-item-title{
+            font-size: 20px;
+            font-weight: bold;
+            color: rgb(14, 14, 14);
+            opacity: 80%;
+        }
+        .section-para{
+            font-size: 19px;
+            font-weight: normal;
+            color: #0E0E0E;
+            opacity: 70%;
+        }
+
+
+
+/* Navigation bar Start */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+header nav h3{
+    font-size: 38px;
+    font-weight: bold;
+    padding: 37px 0;
+}
+nav a button{
+    background-color: white;
+    font-size: 21px;
+    color: #006A50;
+    font-weight: 600;
+    padding: 18px 34px;
+    border-radius: 9px;
+    border: 1px solid green;
+}
+/* Navigation bar End */
+
+
+
+/* Banner Section Start */
+.banner-section{
+    display: flex;
+    justify-content: space-between;
+    height: 672px;
+    width: 1536px;
+    margin-top: 28px;
+    border-radius: 28px;
+}
+.banner-text{
+    height: 391px;
+    width: 746px;
+}
+.banner-subtitle{
+    font-size: 24px;
+    font-weight: 600px;
+    padding: 140px 0 19px 72px;
+    opacity: 50%;
+}
+.banner-title{
+    font-size: 67px;
+    font-weight: bold;
+    padding: 0px 0px 28px 71px;
+    margin: 0 0 24px 0;
+}
+.banner-section div a{
+    text-decoration: none;
+    margin: 0 0 0 72px;
+}
+.banner-btn{
+    font-size: 21px;
+    font-weight: 600;
+    padding: 20px 40px;
+}
+
+.banner-section img{
+    padding: 96px 72px 96px 0;
+    height: 480px;
+    width: 568px;
+}
+/* Banner Section End */
