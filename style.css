@@ -359,3 +359,119 @@ select{
     margin-top: 28px;
 }
 /* News Section End */
+
+
+
+
+/* Donate Section Start */
+.donate-section{
+    text-align: center;
+    margin-top: 96px;
+}
+.donate-section > h1{
+    text-align: center;
+}
+.donate-section > p{
+    width: 1324px;
+    padding: 0 105px;
+    margin: 28px 0 38px 0;
+}
+.donate-items{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 104px;
+}
+.inside-card-txt{
+    font-size: 48px;
+    font-weight: bold;
+    padding: 48px;
+    border-radius: 16px;
+    background-color: white;
+}
+.donate-card-color{
+    background-color: #C6E4D6;
+}
+
+.donate-section input[type="text"]{
+    font-size: 24px;
+    color: red;    
+    text-align: center;
+    width: 1238px;
+    height: 76px;
+    margin: 38px 0;
+    justify-content: center;
+    border: 0;
+}
+::placeholder{
+    color: rgba(14, 14, 14, 0.3);
+}
+/* Donate Section End */
+
+/* Subscribe Section Start */
+.subscribe-section{
+    margin-bottom: 60px;
+    padding-bottom: 96px;
+    margin-top: 96px;
+    padding-top: 96px;
+    border-radius: 28px;
+    background-color: #C6E4D6;
+    text-align: center;
+    
+}
+.subscribe-section > p{
+    margin: 0 394px;
+    margin-top: 19px;
+    margin-bottom: 28px;
+}
+.subscribe-section input[type="text"]{
+    font-size: 19px;
+    padding: 20px 400px 20px 48px;
+    margin: 0;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border: 0;
+    
+}
+.subcscribe-btn{
+    margin-left: -3px;
+    padding: 19px 40px;
+    font-size: 21px;
+    border-radius: 9px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    color: white;
+    background-color: #006A50;
+    border: 0;
+}
+.subscribe-section div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* Subscribe Section End */
+
+
+
+/* Footer Start */
+footer{
+    padding-bottom: 60px;
+    text-align: center;
+    background-color: white;
+}
+footer h1{
+    text-align: center;
+    padding-top: 60px;
+    margin-bottom: 38px;
+}
+hr{
+    
+    margin: 0 286px;
+    width: 1346px;
+    margin-bottom: 38px;
+}
+footer a{
+    padding: 0 14px;
+    
+}
+
+
