@@ -160,3 +160,93 @@ nav a button{
     width: 304px;
 }
 /* Pillar Section End */
+
+
+
+
+/* Vision Section Start */
+.vision-flex{
+    display: flex;
+    gap: 28px;
+}
+.vision-section h1{
+    margin-top: 96px;
+    margin-bottom: 28px;
+}
+.vision-section >p {
+    margin-bottom: 38px;
+}
+.vision-section-itm-title{
+    margin: 28px 0 14px 0;
+}
+.vision-items{
+    background-color: rgb(84, 144, 245, 20%);
+    border-radius: 16px;
+    width: 492px;
+    padding: 38px;
+}
+.vision-item-btn{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #5490F5;
+    padding: 13px 24px 13px 24px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 28px;
+}
+.vision-items >p {
+    width: 415px;
+}
+/* card-2 */
+.vision-items2{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    width: 492px;
+    padding: 38px;
+}
+.vision-item-btn2{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #09A15C;
+    padding: 13px 24px 13px 24px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 57px;
+}
+/* card-3 */
+.vision-items3{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    width: 492px;
+    padding: 38px;
+}
+.vision-item-btn3{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #FFC239;
+    padding: 13px 24px 13px 24px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 76px;
+}
+/* Vision Section End */
+
+/* Dr. Younus Section Start */
+.dr-younus-section{
+    padding: 57px 28px;
+    margin-top: 38px;
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 30px 35px;
+    background-color: white;
+    border-radius: 16px;
+    
+}
+.dr-younus-section h3{
+    margin-top: 14px;
+    margin-bottom: 4px;
+}
+/* Dr. Younus Section End */
