@@ -85,6 +85,10 @@ nav a button{
     border-radius: 9px;
     border: 1px solid green;
 }
+nav a button:hover{
+    color: white;
+    background-color: #006A50;
+}
 /* Navigation bar End */
 
 
@@ -123,6 +127,9 @@ nav a button{
     font-weight: 600;
     padding: 20px 40px;
 }
+.banner-btn:hover{
+    background-color: #24a081;
+}
 
 .banner-section img{
     padding: 96px 72px 96px 0;
@@ -145,6 +152,9 @@ nav a button{
     border-radius: 9px;
     background-color: white;
 
+}
+.pillar-items:hover{
+    transform: scale(1.1);
 }
 .pilar-section h1{
     margin-top: 96px;
@@ -185,6 +195,9 @@ nav a button{
     width: 492px;
     padding: 38px;
 }
+.vision-items:hover{
+    background-color:  rgb(84, 144, 245, 27%);
+}
 .vision-item-btn{
     color: white;
     font-size: 16px;
@@ -194,6 +207,9 @@ nav a button{
     border-radius: 8px;
     border: none;
     margin-top: 28px;
+}
+.vision-item-btn:hover{
+    transform: scale(1.1);
 }
 .vision-items >p {
     width: 415px;
@@ -205,6 +221,9 @@ nav a button{
     width: 492px;
     padding: 38px;
 }
+.vision-items2:hover{
+    background-color: #bbddcd;
+}
 .vision-item-btn2{
     color: white;
     font-size: 16px;
@@ -215,12 +234,18 @@ nav a button{
     border: none;
     margin-top: 57px;
 }
+.vision-item-btn2:hover{
+    transform: scale(1.1);
+}
 /* card-3 */
 .vision-items3{
     background-color: #F7EBCF;
     border-radius: 16px;
     width: 492px;
     padding: 38px;
+}
+.vision-items3:hover{
+    background-color: #ece2ca;
 }
 .vision-item-btn3{
     color: white;
@@ -231,6 +256,9 @@ nav a button{
     border-radius: 8px;
     border: none;
     margin-top: 76px;
+}
+.vision-item-btn3:hover{
+    transform: scale(1.1);
 }
 /* Vision Section End */
 
@@ -306,6 +334,9 @@ select{
     margin-top: 96px;
     margin-bottom: 28px;
 }
+select:hover{
+    background-color: #006a5054;
+}
 /* Opinion Section End */
 
 
@@ -345,6 +376,12 @@ select{
 .news-text-btn{
     padding: 15px 31px;
     border: 0px;
+}
+.news-text-btn:hover{
+    background-color: #038867;
+}
+.satelite-img:hover{
+    transform: scale(1.1);
 }
 
 /* Card 2 */
@@ -405,6 +442,11 @@ select{
 ::placeholder{
     color: rgba(14, 14, 14, 0.3);
 }
+/* hover */
+.inside-card-txt:hover{
+    background-color: #006A50;
+    color: white;
+}
 /* Donate Section End */
 
 /* Subscribe Section Start */
@@ -433,7 +475,7 @@ select{
     
 }
 .subcscribe-btn{
-    margin-left: -3px;
+    margin-left: -2px;
     padding: 19px 40px;
     font-size: 21px;
     border-radius: 9px;
@@ -442,6 +484,9 @@ select{
     color: white;
     background-color: #006A50;
     border: 0;
+}
+.subcscribe-btn:hover{
+    background-color: #028d6a;
 }
 .subscribe-section div{
     display: flex;
