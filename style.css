@@ -384,6 +384,7 @@ select:hover{
     transform: scale(1.1);
 }
 
+
 /* Card 2 */
 .news-card2{
     border-radius: 24px;
@@ -394,6 +395,9 @@ select:hover{
 }
 .news-section2{
     margin-top: 28px;
+}
+.aljazera{
+    padding: 0 40px 0 0;
 }
 /* News Section End */
 
