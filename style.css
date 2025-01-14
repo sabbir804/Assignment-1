@@ -130,3 +130,33 @@ nav a button{
     width: 568px;
 }
 /* Banner Section End */
+
+
+
+
+/* Pillar Section Start */
+.pilar-section > div{
+    display: flex;
+    gap: 28px;
+}
+.pillar-items{
+    padding: 28px;
+    border: 1px solid rgb(14, 14, 14, 15%);
+    border-radius: 9px;
+    background-color: white;
+
+}
+.pilar-section h1{
+    margin-top: 96px;
+    margin-bottom: 38px;
+}
+.pillar-item-title{
+    margin-top: 28px;
+    margin-bottom: 14px;
+    opacity: 80%;
+
+}
+.pilar-section  p {
+    width: 304px;
+}
+/* Pillar Section End */
