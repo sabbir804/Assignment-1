@@ -250,3 +250,112 @@ nav a button{
     margin-bottom: 4px;
 }
 /* Dr. Younus Section End */
+
+
+
+
+
+/* Opinion Section Start */
+table{
+    width: 1459px;
+    border-collapse: collapse;
+}
+th{
+    padding: 28px;
+    background-color: #C6E4D6;
+}
+.th-border{
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+td{
+    padding: 14px 19px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+select{
+    align-items: center;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #C6E4D6;
+    padding: 14px 19px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0,);
+}
+.opinion-section{
+    margin-top: 28px
+}
+.opinion-section>div{
+    padding: 32px;
+    border-radius: 16px;
+    background-color: white;
+}
+.question-align{
+    text-align: left;
+}
+.select-opi-align{
+    text-align: right;
+}
+.select-agree-align{
+    text-align: center;
+}
+.question-font{
+    font-size: 19px;
+    font-weight: 500;
+    color: #0E0E0E;
+}
+.opinion-section .section-title{
+    margin-top: 96px;
+    margin-bottom: 28px;
+}
+/* Opinion Section End */
+
+
+
+
+/* News Section Start */
+.news-card1{
+    border-radius: 24px;
+    display: flex;
+    gap: 38px;
+    padding: 57px;
+    background-color: white;
+}
+.news-section{
+    margin-top: 96px;
+}
+.news-section > p{
+    margin-top: 28px;
+    margin-bottom: 38px;
+}
+.news-card1 img , .news-card2 img{
+    border-radius: 24px;
+}
+.news-text-section img{
+    margin: 14px 0;
+}
+.news-des{
+    width: 892px;
+    padding-top: 14px;
+    padding-bottom: 38px;
+}
+
+.news-text-section div{
+    border-radius: 70px;
+}
+
+.news-text-btn{
+    padding: 15px 31px;
+    border: 0px;
+}
+
+/* Card 2 */
+.news-card2{
+    border-radius: 24px;
+    display: flex;
+    gap: 38px;
+    padding: 57px;
+    background-color: white;
+}
+.news-section2{
+    margin-top: 28px;
+}
+/* News Section End */
